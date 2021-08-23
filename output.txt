@@ -1,0 +1,56 @@
+Script started on Mon Aug 23 14:01:59 2021
+%                                                                               ]7;file://Ophelias-Air/Users/opheliamichael/desktop/black-codheropheliamichael@Ophelias-Air black-codher % [?2004hmkdir folder1[?2004l
+%                                                                               ]7;file://Ophelias-Air/Users/opheliamichael/desktop/black-codheropheliamichael@Ophelias-Air black-codher % [?2004hmkdir folder2[?2004l
+%                                                                               ]7;file://Ophelias-Air/Users/opheliamichael/desktop/black-codheropheliamichael@Ophelias-Air black-codher % [?2004htouch file1.txt[?2004l
+%                                                                               ]7;file://Ophelias-Air/Users/opheliamichael/desktop/black-codheropheliamichael@Ophelias-Air black-codher % [?2004htouch file2.txt[?2004l
+%                                                                               ]7;file://Ophelias-Air/Users/opheliamichael/desktop/black-codheropheliamichael@Ophelias-Air black-codher % [?2004htouch file3.txt[?2004l
+%                                                                               ]7;file://Ophelias-Air/Users/opheliamichael/desktop/black-codheropheliamichael@Ophelias-Air black-codher % [?2004hls  mv file1.txt ~/folder1[?2004l
+%                                                                               ]7;file://Ophelias-Air/Users/opheliamichael/desktop/black-codheropheliamichael@Ophelias-Air black-codher % [?2004hmv file2.txt?  ~/folder2[?2004l
+%                                                                               ]7;file://Ophelias-Air/Users/opheliamichael/desktop/black-codheropheliamichael@Ophelias-Air black-codher % [?2004hcd g foe ler1   der1[?2004l
+%                                                                               ]7;file://Ophelias-Air/Users/opheliamichael/desktop/black-codher/folder1opheliamichael@Ophelias-Air folder1 % [?2004hls[?2004l
+%                                                                               ]7;file://Ophelias-Air/Users/opheliamichael/desktop/black-codher/folder1opheliamichael@Ophelias-Air folder1 % [?2004hmv file1.txt _/  ~/folder1[?2004l
+mv: file1.txt: No such file or directory
+%                                                                               ]7;file://Ophelias-Air/Users/opheliamichael/desktop/black-codher/folder1opheliamichael@Ophelias-Air folder1 % [?2004hls[?2004l
+%                                                                               ]7;file://Ophelias-Air/Users/opheliamichael/desktop/black-codher/folder1opheliamichael@Ophelias-Air folder1 % [?2004hc d  d[?2004l
+%                                                                               ]7;file://Ophelias-Air/Users/opheliamichaelopheliamichael@Ophelias-Air ~ % [?2004hcd deskot  top [?2004l
+%                                                                               ]7;file://Ophelias-Air/Users/opheliamichael/desktopopheliamichael@Ophelias-Air desktop % [?2004hcd black codher-        -codher[?2004l
+%                                                                               ]7;file://Ophelias-Air/Users/opheliamichael/desktop/black-codheropheliamichael@Ophelias-Air black-codher % [?2004hls[?2004l
+HelloWorld.txt
+file3.txt
+folder1
+folder2
+github-fundamentals-homework-OpheliaMichael
+index.html
+output.txt
+%                                                                               ]7;file://Ophelias-Air/Users/opheliamichael/desktop/black-codheropheliamichael@Ophelias-Air black-codher % [?2004hrm file3.txt[?2004l
+%                                                                               ]7;file://Ophelias-Air/Users/opheliamichael/desktop/black-codheropheliamichael@Ophelias-Air black-codher % [?2004hls[?2004l
+HelloWorld.txt
+folder1
+folder2
+github-fundamentals-homework-OpheliaMichael
+index.html
+output.txt
+%                                                                               ]7;file://Ophelias-Air/Users/opheliamichael/desktop/black-codheropheliamichael@Ophelias-Air black-codher % [?2004hgit stst  atus[?2004l
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   .DS_Store
+	modified:   github-fundamentals-homework-OpheliaMichael (untracked content)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	output.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+%                                                                               ]7;file://Ophelias-Air/Users/opheliamichael/desktop/black-codheropheliamichael@Ophelias-Air black-codher % [?2004hexit[?2004l
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+Deleting expired sessions...      22 completed.
+
+Script done on Mon Aug 23 14:59:29 2021
